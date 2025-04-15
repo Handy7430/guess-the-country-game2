@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guess the Country</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Guess the Country Game</h1>
+
+    <div id="country-image-container">
+      <img id="country-image" src="" alt="Country Image" class="country-image">
+    </div>
+
+    <div class="guess-container">
+      <input type="text" id="guess" placeholder="Type your guess here" class="guess-input">
+      <button onclick="checkGuess()" class="submit-btn">Submit Guess</button>
+    </div>
+
+    <p id="feedback" class="feedback"></p>
+    <p id="score" class="score">Score: 0</p>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>
