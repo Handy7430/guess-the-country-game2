@@ -1,0 +1,14 @@
+[
+  {
+    "name": "France",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/France_location_map.svg/640px-France_location_map.svg.png"
+  },
+  {
+    "name": "Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Brazil_location_map.svg/640px-Brazil_location_map.svg.png"
+  },
+  {
+    "name": "Japan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Japan_location_map.svg/640px-Japan_location_map.svg.png"
+  }
+]
